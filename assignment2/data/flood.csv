@@ -1,0 +1,462 @@
+id,country,iso3,gwno,year,geo_id,geolocation,level,adm1,adm2,adm3,location,historical,hist_country,disastertype,disasterno,latitude,longitude
+02-420,Mali,MLI,432,2018,32503,Adjelhoc,3,Kidal,Tessalit,Adjelhoc, Aguelhok,0,NA,flood,2018-0441,19.10080506,0.740777521
+02-461,Nepal,NEP,790,2018,32814,Sarlahi,3,Central,Janakpur,Sarlahi, Sarlahi,0,NA,flood,2018-0219,26.98588028,85.56745865
+02-461,Nepal,NEP,790,2018,32819,Rolpa,3,Mid-Western,Rapti,Rolpa,Rolpa district,0,NA,flood,2018-0219,28.34399386,82.62999127
+02-461,Nepal,NEP,790,2018,32821,Dang,3,Mid-Western,Rapti,Dang, Dang,0,NA,flood,2018-0219,27.96398038,82.41223144
+02-461,Nepal,NEP,790,2018,32822,Sindhuli,3,Central,Janakpur,Sindhuli, Sindhuli districts,0,NA,flood,2018-0219,27.20110756,85.94659879
+02-566,Rwanda,RWA,517,2018,33620,Nyakiriba,3,Iburengerazuba,Rubavu,Nyakiriba, Nyakiliba,0,NA,flood,2018-0104,-1.674038568,29.35419917
+02-566,Rwanda,RWA,517,2018,33621,Nyundo,3,Iburengerazuba,Rubavu,Nyundo,Nyundo,0,NA,flood,2018-0104,-1.724484878,29.33731342
+02-566,Rwanda,RWA,517,2018,33623,Rugerero,3,Iburengerazuba,Rubavu,Rugerero, Rugerero,0,NA,flood,2018-0104,-1.691782674,29.30083066
+02-566,Rwanda,RWA,517,2018,33625,Kanama,3,Iburengerazuba,Rubavu,Kanama, Kanama ,0,NA,flood,2018-0104,-1.707310205,29.39391409
+02-625,Tanzania,TAZ,510,2018,33930,Kigamboni,3,Dar Es Salaam,Temeke,Kigamboni, Temeke and Kigamboni Municipals,0,NA,flood,2018-0125,-6.82614508,39.3100547
+02-140,China,CHN,710,2018,30854,Tianshui,2,Gansu,Tianshui,NA,Tianshui,0,NA,flood,2018-0252,34.65014895,105.7399518
+02-140,China,CHN,710,2018,30855,Pingliang,2,Gansu,Pingliang,NA, Pingliang,0,NA,flood,2018-0252,35.30654585,106.6510984
+02-140,China,CHN,710,2018,30856,Zhangye,2,Gansu,Zhangye,NA, Zhangye,0,NA,flood,2018-0252,38.91973388,99.89444781
+02-143,China,CHN,710,2018,30873,Guangyuan,2,Sichuan,Guangyuan,NA, Guangyuan prefectures ,0,NA,flood,2018-0250,32.260871,105.7797711
+02-143,China,CHN,710,2018,30875,Deyang,2,Sichuan,Deyang,NA,Deyang,0,NA,flood,2018-0250,31.1340846,104.4293611
+02-143,China,CHN,710,2018,30876,Mianyang,2,Sichuan,Mianyang,NA, Mianyang,0,NA,flood,2018-0250,31.84850173,104.7025664
+02-165,Croatia,CRO,344,2018,30963,Gospic,2,Licko-Senjska,Gospic,NA, Gopsic region,0,NA,flood,2018-0087,44.53890858,15.37247512
+02-165,Croatia,CRO,344,2018,30964,Perusic,2,Licko-Senjska,Perusic,NA,Kosinj region,0,NA,flood,2018-0087,44.71858236,15.27507224
+02-201,France,FRN,220,2018,31221,Herault,2,Occitanie,Herault,NA, HŽrault,0,NA,flood,2018-0375,43.57954599,3.368139294
+02-201,France,FRN,220,2018,31222,Aude,2,Occitanie,Aude,NA, Aragon,0,NA,flood,2018-0375,43.1042611,2.405418903
+Feb-29,Argentina,ARG,160,2018,31776,Lanus,2,Buenos Aires,Lanus,NA, Lanus ,0,NA,flood,2018-0439,-34.70990562,-58.39540736
+Feb-29,Argentina,ARG,160,2018,31777,La Plata,2,Buenos Aires,La Plata,NA, La Plata,0,NA,flood,2018-0439,-35.0040484,-58.01879916
+Feb-29,Argentina,ARG,160,2018,31778,Marcos Paz,2,Buenos Aires,Marcos Paz,NA, Marcos Paz,0,NA,flood,2018-0439,-34.81701183,-58.84950081
+Feb-29,Argentina,ARG,160,2018,31779,La Matanza,2,Buenos Aires,La Matanza,NA, La Matanza,0,NA,flood,2018-0439,-34.77334327,-58.62584265
+Feb-29,Argentina,ARG,160,2018,31780,Arrecifes,2,Buenos Aires,Arrecifes,NA, Arrecifes,0,NA,flood,2018-0439,-34.0121401,-60.06554191
+Feb-29,Argentina,ARG,160,2018,31781,Lomas De Zamora,2,Buenos Aires,Lomas De Zamora,NA,Lomas de Zamora,0,NA,flood,2018-0439,-34.75867352,-58.42486248
+Feb-29,Argentina,ARG,160,2018,31782,Lobos,2,Buenos Aires,Lobos,NA, Lobos,0,NA,flood,2018-0439,-35.22235018,-59.15231167
+02-290,India,IND,750,2018,31784,Mangalore,3,Karnataka,Dakshina Kannada,Mangalore, Mangaluru,0,NA,flood,2018-0216,12.94637373,74.87996549
+02-297,India,IND,750,2018,31807,Udalguri,2,Assam,Udalguri,NA, Udalguri,0,NA,flood,2018-0345,26.73321037,92.01966262
+02-297,India,IND,750,2018,31808,Golaghat,2,Assam,Golaghat,NA, Golaghat,0,NA,flood,2018-0345,26.47876346,93.83687006
+02-297,India,IND,750,2018,31809,Sivasagar,2,Assam,Sivasagar,NA, Sivassagar/Charaideo,0,NA,flood,2018-0345,27.01228832,94.81926657
+02-297,India,IND,750,2018,31810,Dhemaji,2,Assam,Dhemaji,NA, Dhemaji,0,NA,flood,2018-0345,27.5903576,94.78022274
+02-297,India,IND,750,2018,31811,Darrang,2,Assam,Darrang,NA, Darrang ,0,NA,flood,2018-0345,26.44938205,92.0344264
+02-297,India,IND,750,2018,31813,Barpeta,2,Assam,Barpeta,NA, Barpeta,0,NA,flood,2018-0345,26.33773804,91.00368935
+02-298,India,IND,750,2018,31814,Thrissur,2,Kerala,Thrissur,NA,Thrissur,0,NA,flood,2018-0295,10.46560913,76.31187393
+02-298,India,IND,750,2018,31815,Chengannur,3,Kerala,Alappuzha,Chengannur, Chengannur ,0,NA,flood,2018-0295,9.285333948,76.58552026
+02-324,Indonesia,INS,850,2018,31999,Mandailing Natal,2,Sumatera Utara,Mandailing Natal,NA,Muara Saladi village in Mandailing Natal Regency ,0,NA,flood,2018-0425,0.774439182,99.36941186
+02-340,Iraq,IRQ,645,2018,32061,Al Shirkat,2,Sala Ad-Din,Al Shirkat,NA,Ach-Charqat district,0,NA,flood,2018-0427,35.43707904,43.12198982
+02-382,Kenya,KEN,501,2018,32273,Rongai,2,Nakuru,Rongai,NA, Rongai region,0,NA,flood,2018-0148,-0.088339452,35.99404019
+02-394,Laos,LAO,812,2018,32308,Sanamxay,2,Attapu,Sanamxay,NA, Hinlad,0,NA,flood,2018-0222,14.73830315,106.4137776
+02-407,Malawi,MAW,553,2018,32367,TA Karonga,2,Salima,TA Karonga,NA, Kyungu,0,NA,flood,2018-0064,-13.73976438,34.35801008
+02-417,Malaysia,MAL,820,2018,32460,Bera,2,Pahang,Bera,NA, Bera districts ,0,NA,flood,2018-0068,3.167070051,102.5573754
+02-417,Malaysia,MAL,820,2018,32462,Pekan,2,Pahang,Pekan,NA, Pekan,0,NA,flood,2018-0068,3.333374995,103.1836917
+02-417,Malaysia,MAL,820,2018,32463,Lipis,2,Pahang,Lipis,NA, Lipis,0,NA,flood,2018-0068,4.344816819,101.91593
+02-417,Malaysia,MAL,820,2018,32465,Jerantut,2,Pahang,Jerantut,NA, Jerantut,0,NA,flood,2018-0068,4.257282824,102.5558307
+02-417,Malaysia,MAL,820,2018,32467,Rompin,2,Pahang,Rompin,NA, Rompin,0,NA,flood,2018-0068,2.867754386,103.1129564
+02-417,Malaysia,MAL,820,2018,32468,Kuantan,2,Pahang,Kuantan,NA,Kuantan,0,NA,flood,2018-0068,3.855544288,103.0912133
+02-418,Malaysia,MAL,820,2018,32469,Serian,2,Sarawak,Serian,NA, Serian,0,NA,flood,2018-0063,1.078804159,110.585756
+02-418,Malaysia,MAL,820,2018,32470,Limbang,2,Sarawak,Limbang,NA, Limbang,0,NA,flood,2018-0063,4.29770834,115.1258186
+02-418,Malaysia,MAL,820,2018,32471,Samarahan,2,Sarawak,Samarahan,NA,Samarahan,0,NA,flood,2018-0063,1.449935689,110.499104
+02-418,Malaysia,MAL,820,2018,32472,Mukah,2,Sarawak,Mukah,NA, Mukah,0,NA,flood,2018-0063,2.827111851,112.3685303
+02-418,Malaysia,MAL,820,2018,32473,Sarikei,2,Sarawak,Sarikei,NA, Sarikei ,0,NA,flood,2018-0063,2.052908984,111.4572233
+02-418,Malaysia,MAL,820,2018,32475,Bintulu,2,Sarawak,Bintulu,NA, Bintulu,0,NA,flood,2018-0063,3.161373989,113.4643825
+02-420,Mali,MLI,432,2018,32492,Niafunke,2,Timbuktu,Niafunke,NA, NiafunkŽ ,0,NA,flood,2018-0441,15.86380327,-4.022515268
+02-420,Mali,MLI,432,2018,32493,Kouri,3,Sikasso,Yorosso,Kouri, Koury,0,NA,flood,2018-0441,12.09906325,-4.938418021
+02-420,Mali,MLI,432,2018,32494,Essouk,3,Kidal,Kidal,Essouk, Essouk ,0,NA,flood,2018-0441,18.89315743,1.218230558
+02-420,Mali,MLI,432,2018,32495,Toubakoura,3,Koulikoro,Banamba,Toubakoura, Toubakoro,0,NA,flood,2018-0441,13.43188008,-7.324006538
+02-420,Mali,MLI,432,2018,32496,Kita,2,Kayes,Kita,NA, Kita city ,0,NA,flood,2018-0441,13.23062469,-9.434045567
+02-420,Mali,MLI,432,2018,32497,Dire,2,Timbuktu,Dire,NA, DirŽ,0,NA,flood,2018-0441,16.25418221,-3.325092108
+02-420,Mali,MLI,432,2018,32500,Kolokani,2,Koulikoro,Kolokani,NA, Kolokani town,0,NA,flood,2018-0441,13.78148256,-8.160190661
+02-420,Mali,MLI,432,2018,32501,Bourem,2,Gao,Bourem,NA, Bourem,0,NA,flood,2018-0441,17.74591965,-0.393153524
+02-420,Mali,MLI,432,2018,32502,Ansongo,2,Gao,Ansongo,NA, Ansongo ,0,NA,flood,2018-0441,15.66524494,0.667664541
+02-420,Mali,MLI,432,2018,32507,Koutiala,2,Sikasso,Koutiala,NA, Koutiala,0,NA,flood,2018-0441,12.38820277,-5.559946793
+02-440,Mexico,MEX,70,2018,32623,Periban,2,Michoacan,Periban,NA, Periban,0,NA,flood,2018-0367,19.48469219,-102.4679431
+02-441,Mongolia,MON,712,2018,32625,Zavkhan,2,Uvs,Zavkhan,NA, Zavkhan,0,NA,flood,2018-0249,48.82035653,93.23360035
+02-441,Mongolia,MON,712,2018,32632,Bayanzurkh,2,Hovsgol,Bayanzurkh,NA, Bayanzurkh provinces,0,NA,flood,2018-0249,50.20147537,98.69457493
+02-461,Nepal,NEP,790,2018,32815,Parsa,3,Central,Narayani,Parsa, Parsa,0,NA,flood,2018-0219,27.23949219,84.78236161
+02-461,Nepal,NEP,790,2018,32818,Banke,3,Mid-Western,Bheri,Banke, Banke,0,NA,flood,2018-0219,28.08703209,81.82416506
+02-461,Nepal,NEP,790,2018,32820,Kathmandu,3,Central,Bagmati,Kathmandu, Kathmandu,0,NA,flood,2018-0219,27.72793597,85.34962108
+02-481,Nigeria,NIG,475,2018,33008,Jibia,2,Katsina,Jibia,NA,Jibia district,0,NA,flood,2018-0238,12.98556733,7.29638933
+Feb-50,Bangladesh,BNG,771,2018,33082,Cox'S Bazar,2,Chittagong,Cox'S Bazar,NA,CoxÕs Bazar,0,NA,flood,2018-0203,21.47787733,92.06919973
+Feb-50,Bangladesh,BNG,771,2018,33083,Rangamati,2,Chittagong,Rangamati,NA,Rangamati,0,NA,flood,2018-0203,22.82958232,92.27935178
+02-561,Russia,RUS,365,2018,33593,Tuapse,2,Krasnodar,Tuapse,NA,Tuapse district ,0,NA,flood,2018-0407,44.12500426,39.05358501
+02-562,Russia,RUS,365,2018,33596,Kletskiy Rayon,2,Volgograd,Kletskiy Rayon,NA, Kletsky,0,NA,flood,2018-0113,49.18756139,42.97170096
+02-562,Russia,RUS,365,2018,33597,Elanskiy Rayon,2,Volgograd,Elanskiy Rayon,NA, Elansky,0,NA,flood,2018-0113,50.8784315,43.87467965
+02-562,Russia,RUS,365,2018,33599,Uryupinsk,2,Volgograd,Uryupinsk,NA, Uryupinsky ,0,NA,flood,2018-0113,50.78096378,41.99310707
+02-562,Russia,RUS,365,2018,33600,Ilovlinskiy Rayon,2,Volgograd,Ilovlinskiy Rayon,NA, Ilovlinsky,0,NA,flood,2018-0113,49.33569015,44.00065342
+02-562,Russia,RUS,365,2018,33602,Frolovskiy Rayon,2,Volgograd,Frolovskiy Rayon,NA, Frolovsky,0,NA,flood,2018-0113,49.84226459,43.83135527
+02-562,Russia,RUS,365,2018,33604,Kikvidzenskiy Rayon,2,Volgograd,Kikvidzenskiy Rayon,NA, Kikvidzensky,0,NA,flood,2018-0113,50.77120727,43.27296282
+02-567,Rwanda,RWA,517,2018,33627,Gasabo,2,Umujyi Wa Kigali,Gasabo,NA,Gasabo district ,0,NA,flood,2018-0135,-1.891447464,30.14221239
+02-567,Rwanda,RWA,517,2018,33629,Kigali,3,Umujyi Wa Kigali,Nyarugenge,Kigali,Kigali,0,NA,flood,2018-0135,-1.979170862,30.01896037
+02-567,Rwanda,RWA,517,2018,33630,Gatsibo,2,Iburasirazuba,Gatsibo,NA, Gatsibo ,0,NA,flood,2018-0135,-1.61907309,30.4453977
+02-597,Spain,SPN,230,2018,33744,Malaga,2,Andalucia,Malaga,NA, Malaga,0,NA,flood,2018-0361,36.81397592,-4.725769506
+02-597,Spain,SPN,230,2018,33746,Tarragona,2,Cataluna,Tarragona,NA, Tarragona,0,NA,flood,2018-0361,41.08759799,0.817982275
+02-625,Tanzania,TAZ,510,2018,33900,Longido,2,Arusha,Longido,NA, Longido,0,NA,flood,2018-0125,-2.72406175,36.49691544
+02-625,Tanzania,TAZ,510,2018,33901,Kaliua,2,Tabora,Kaliua,NA,Nzega and Kaliua districts,0,NA,flood,2018-0125,-4.95608582,31.73316972
+02-625,Tanzania,TAZ,510,2018,33902,Mafia,2,Pwani,Mafia,NA,Mafia and Rufiji districts,0,NA,flood,2018-0125,-7.865335386,39.77229936
+02-625,Tanzania,TAZ,510,2018,33903,Meru,2,Arusha,Meru,NA, Meru,0,NA,flood,2018-0125,-3.337422291,36.90190899
+02-625,Tanzania,TAZ,510,2018,33905,Kinondoni,2,Dar Es Salaam,Kinondoni,NA,Kinondoni,0,NA,flood,2018-0125,-6.730284449,39.14305444
+02-625,Tanzania,TAZ,510,2018,33906,Babati,2,Manyara,Babati,NA, Babati districts,0,NA,flood,2018-0125,-4.102458057,35.8590466
+02-625,Tanzania,TAZ,510,2018,33907,Lushoto,2,Tanga,Lushoto,NA, Lushoto districts,0,NA,flood,2018-0125,-4.552150839,38.44138066
+02-625,Tanzania,TAZ,510,2018,33909,Nzega,2,Tabora,Nzega,NA,Nzega and Kaliua districts,0,NA,flood,2018-0125,-4.390098992,33.01316776
+02-625,Tanzania,TAZ,510,2018,33910,Same,2,Kilimanjaro,Same,NA,Same,0,NA,flood,2018-0125,-4.219044873,37.89872824
+02-625,Tanzania,TAZ,510,2018,33912,Mwanga,2,Kilimanjaro,Mwanga,NA, Mwanga districts,0,NA,flood,2018-0125,-3.73507044,37.64252879
+02-625,Tanzania,TAZ,510,2018,33917,Monduli,2,Arusha,Monduli,NA, Monduli districts,0,NA,flood,2018-0125,-3.406469755,36.22703936
+02-625,Tanzania,TAZ,510,2018,33918,Kiteto,2,Manyara,Kiteto,NA, Kiteto,0,NA,flood,2018-0125,-5.228743013,36.76239756
+02-625,Tanzania,TAZ,510,2018,33920,Rufiji,2,Pwani,Rufiji,NA,Mafia and Rufiji districts,0,NA,flood,2018-0125,-7.942795128,38.67164108
+02-625,Tanzania,TAZ,510,2018,33923,Ilala,2,Dar Es Salaam,Ilala,NA, Ilala,0,NA,flood,2018-0125,-6.934883793,39.15014405
+02-625,Tanzania,TAZ,510,2018,33924,Simanjiro,2,Manyara,Simanjiro,NA,Simanjiro,0,NA,flood,2018-0125,-4.31849354,37.09188722
+02-625,Tanzania,TAZ,510,2018,33928,Handeni,2,Tanga,Handeni,NA,Handeni,0,NA,flood,2018-0125,-5.567306476,38.30099092
+02-625,Tanzania,TAZ,510,2018,33933,Hai,2,Kilimanjaro,Hai,NA, Hai,0,NA,flood,2018-0125,-3.29164258,37.20136851
+Feb-71,Cambodia,CAM,811,2018,34677,Siem Pang,2,Stang Treng,Siem Pang,NA,Siem Pang District,0,NA,flood,2018-0222,14.1739352,106.4240486
+Feb-71,Cambodia,CAM,811,2018,34680,Sesan,2,Stang Treng,Sesan,NA,Sesan,0,NA,flood,2018-0222,13.60540756,106.358024
+Feb-71,Cambodia,CAM,811,2018,34683,Thala Barivat,2,Stang Treng,Thala Barivat,NA, Thalaborivat,0,NA,flood,2018-0222,13.67242083,105.788174
+07-133,Indonesia,INS,850,2018,44982,Bogor,2,Jawa Barat,Bogor,NA,Bogor ,0,NA,flood,2018-0472,-6.559979443,106.7675307
+07-155,Kazakhstan,KZK,705,2018,44984,Zaysanskiy,2,East Kazakhstan,Zaysanskiy,NA, Zaisan,0,NA,flood,2018-0167,47.4100096,84.96044372
+07-155,Kazakhstan,KZK,705,2018,44985,Glubokovskiy,2,East Kazakhstan,Glubokovskiy,NA, Glubokoye,0,NA,flood,2018-0167,50.44737428,83.00843716
+07-155,Kazakhstan,KZK,705,2018,44986,Kurchumskiy,2,East Kazakhstan,Kurchumskiy,NA, Kurshim,0,NA,flood,2018-0167,48.47285611,84.85469297
+07-155,Kazakhstan,KZK,705,2018,44987,Urdzharskiy,2,East Kazakhstan,Urdzharskiy,NA, Urzhar,0,NA,flood,2018-0167,46.8411697,81.55846176
+07-155,Kazakhstan,KZK,705,2018,44988,Ayagozskiy,2,East Kazakhstan,Ayagozskiy,NA,Ayagoz,0,NA,flood,2018-0167,47.84481236,79.08203575
+07-261,Tajikistan,TAJ,702,2018,45072,Farkhor,2,Khatlon,Farkhor,NA,Farkhor,0,NA,flood,2018-0207,37.52683402,69.30303527
+07-261,Tajikistan,TAJ,702,2018,45073,Panj,2,Khatlon,Panj,NA, Panj districts ,0,NA,flood,2018-0207,37.29290051,69.16030456
+07-284,United States,USA,2,2018,45095,Jim Wells,2,Texas,Jim Wells,NA, Jim Wells,0,NA,flood,2018-0419,27.73202214,-98.09020678
+07-284,United States,USA,2,2018,45096,Burnet,2,Texas,Burnet,NA, Burnet,0,NA,flood,2018-0419,30.78810609,-98.18328414
+07-284,United States,USA,2,2018,45097,Hood,2,Texas,Hood,NA, Hood,0,NA,flood,2018-0419,32.4287595,-97.83129152
+07-284,United States,USA,2,2018,45100,Kerr,2,Texas,Kerr,NA, Kerr,0,NA,flood,2018-0419,30.0621566,-99.35124529
+07-284,United States,USA,2,2018,45102,Williamson,2,Texas,Williamson,NA, and Williamson counties,0,NA,flood,2018-0419,30.64868482,-97.60343345
+07-284,United States,USA,2,2018,45103,Live Oak,2,Texas,Live Oak,NA, Live Oak,0,NA,flood,2018-0419,28.35307907,-98.12613268
+07-284,United States,USA,2,2018,45104,Llano,2,Texas,Llano,NA, Llano,0,NA,flood,2018-0419,30.70590716,-98.68435594
+07-284,United States,USA,2,2018,45105,Mason,2,Texas,Mason,NA, Mason,0,NA,flood,2018-0419,30.71776837,-99.22664801
+07-284,United States,USA,2,2018,45106,Bastrop,2,Texas,Bastrop,NA,Bastrop,0,NA,flood,2018-0419,30.10119025,-97.31240324
+07-284,United States,USA,2,2018,45109,Real,2,Texas,Real,NA, Real,0,NA,flood,2018-0419,29.83278797,-99.82242705
+07-284,United States,USA,2,2018,45110,San Patricio,2,Texas,San Patricio,NA, San Patricio,0,NA,flood,2018-0419,28.00809209,-97.51836032
+07-284,United States,USA,2,2018,45111,Travis,2,Texas,Travis,NA, Travis,0,NA,flood,2018-0419,30.33334361,-97.78033859
+07-284,United States,USA,2,2018,45112,Nueces,2,Texas,Nueces,NA, Nueces,0,NA,flood,2018-0419,27.7267458,-97.62137111
+07-284,United States,USA,2,2018,45115,Mason,2,Illinois,Mason,NA, Mason,0,NA,flood,2018-0419,40.23990508,-89.91673778
+07-284,United States,USA,2,2018,45116,Williamson,2,Illinois,Williamson,NA, and Williamson counties,0,NA,flood,2018-0419,37.73135335,-88.93005771
+07-284,United States,USA,2,2018,45117,McMullen,2,Texas,McMullen,NA, McMullen,0,NA,flood,2018-0419,28.35144951,-98.56940926
+07-284,United States,USA,2,2018,45118,La Salle,2,Illinois,La Salle,NA, La Salle,0,NA,flood,2018-0419,41.34494963,-88.88710991
+07-284,United States,USA,2,2018,45120,La Salle,2,Texas,La Salle,NA, La Salle,0,NA,flood,2018-0419,28.34377306,-99.09886732
+10-Feb,Afghanistan,AFG,700,2018,30583,Kunar,1,Kunar,NA,NA,Ghazi-Abad district ,0,NA,flood,2018-0350,34.96438283,71.11573113
+13-Feb,Albania,ALB,339,2018,30793,Shkoder,1,Shkoder,NA,NA,Shkodra region,0,NA,flood,2018-0082,42.17678875,19.71942435
+13-Feb,Albania,ALB,339,2018,30794,Fushe Kruje,3,Durres,Krujes,Fushe Kruje, Fushe-Kruje ,0,NA,flood,2018-0082,41.47331194,19.73120214
+02-138,China,CHN,710,2018,30840,Guizhou,1,Guizhou,NA,NA, Guizhou,0,NA,flood,2018-0210,26.8151819,106.8740991
+02-138,China,CHN,710,2018,30841,Hebei,1,Hebei,NA,NA, Hebei,0,NA,flood,2018-0210,39.54574155,116.1300572
+02-138,China,CHN,710,2018,30842,Gansu,1,Gansu,NA,NA, Gansu,0,NA,flood,2018-0210,37.82078887,100.9338739
+02-138,China,CHN,710,2018,30843,Sichuan,1,Sichuan,NA,NA, Sichuan,0,NA,flood,2018-0210,30.61575411,102.7099641
+02-138,China,CHN,710,2018,30844,Jiangsu,1,Jiangsu,NA,NA, Jiangsu,0,NA,flood,2018-0210,32.97338839,119.4557011
+02-138,China,CHN,710,2018,30845,Chongqing,1,Chongqing,NA,NA, Chongqing,0,NA,flood,2018-0210,30.05864874,107.8748401
+02-138,China,CHN,710,2018,30846,Shaanxi,1,Shaanxi,NA,NA, Shaanxi,0,NA,flood,2018-0210,35.19516887,108.8705819
+02-138,China,CHN,710,2018,30847,Jiangxi,1,Jiangxi,NA,NA,Jiangxi,0,NA,flood,2018-0210,27.61366261,115.7208219
+02-138,China,CHN,710,2018,30848,Henan,1,Henan,NA,NA, Henan,0,NA,flood,2018-0210,33.88259152,113.613553
+02-138,China,CHN,710,2018,30849,Hubei,1,Hubei,NA,NA, Hubei,0,NA,flood,2018-0210,30.97599381,112.2690854
+02-138,China,CHN,710,2018,30850,Shandong,1,Shandong,NA,NA, Shandong,0,NA,flood,2018-0210,36.35199896,118.1509191
+02-138,China,CHN,710,2018,30851,Shanxi,1,Shanxi,NA,NA, Shanxi,0,NA,flood,2018-0210,37.57589687,112.2919732
+02-142,China,CHN,710,2018,30863,Chongqing,1,Chongqing,NA,NA, Chongqing,0,NA,flood,2018-0198,30.05864874,107.8748401
+02-142,China,CHN,710,2018,30864,Gansu,1,Gansu,NA,NA, Gansu,0,NA,flood,2018-0198,37.82078887,100.9338739
+02-142,China,CHN,710,2018,30865,Fujian,1,Fujian,NA,NA, Fujian,0,NA,flood,2018-0198,26.08105732,117.9899438
+02-142,China,CHN,710,2018,30866,Sichuan,1,Sichuan,NA,NA,Sichuan,0,NA,flood,2018-0198,30.61575411,102.7099641
+02-142,China,CHN,710,2018,30867,Henan,1,Henan,NA,NA, Henan,0,NA,flood,2018-0198,33.88259152,113.613553
+02-142,China,CHN,710,2018,30868,Hubei,1,Hubei,NA,NA, Hubei,0,NA,flood,2018-0198,30.97599381,112.2690854
+02-142,China,CHN,710,2018,30869,Guizhou,1,Guizhou,NA,NA, Guizhou,0,NA,flood,2018-0198,26.8151819,106.8740991
+02-142,China,CHN,710,2018,30870,Shaanxi,1,Shaanxi,NA,NA, Shaanxi,0,NA,flood,2018-0198,35.19516887,108.8705819
+02-142,China,CHN,710,2018,30871,Anhui,1,Anhui,NA,NA, Anhui,0,NA,flood,2018-0198,31.82578581,117.2262303
+02-142,China,CHN,710,2018,30872,Jiangsu,1,Jiangsu,NA,NA, Jiangsu,0,NA,flood,2018-0198,32.97338839,119.4557011
+02-155,Colombia,COL,100,2018,30918,Antioquia,1,Antioquia,NA,NA, Antioquia,0,NA,flood,2018-0131,6.910416654,-75.59169707
+02-155,Colombia,COL,100,2018,30919,Santander,1,Santander,NA,NA, Santander,0,NA,flood,2018-0131,6.675394056,-73.51501539
+02-155,Colombia,COL,100,2018,30920,Narino,1,Narino,NA,NA, Narino,0,NA,flood,2018-0131,1.563412287,-77.86731351
+02-155,Colombia,COL,100,2018,30921,Tolima,1,Tolima,NA,NA, Tolima,0,NA,flood,2018-0131,4.044151881,-75.26617093
+02-155,Colombia,COL,100,2018,30922,Boyaca,1,Boyaca,NA,NA, Boyaca,0,NA,flood,2018-0131,5.759532067,-73.12176349
+02-155,Colombia,COL,100,2018,30923,Cundinamarca,1,Cundinamarca,NA,NA, Cundinamarca,0,NA,flood,2018-0131,4.764670345,-74.12572228
+02-155,Colombia,COL,100,2018,30924,Choco,1,Choco,NA,NA, Choco,0,NA,flood,2018-0131,5.98735733,-76.97111851
+02-155,Colombia,COL,100,2018,30925,Valle Del Cauca,1,Valle Del Cauca,NA,NA, Valle del Cauca,0,NA,flood,2018-0131,3.868855494,-76.53174509
+02-155,Colombia,COL,100,2018,30926,Norte De Santander,1,Norte De Santander,NA,NA,Norte de Santander,0,NA,flood,2018-0131,8.077473169,-72.88932802
+02-156,Colombia,COL,100,2018,30927,La Guajira,1,La Guajira,NA,NA,La Guajira,0,NA,flood,2018-0396,11.45658717,-72.45516693
+02-156,Colombia,COL,100,2018,30928,Caldas,1,Caldas,NA,NA, Galdas departments,0,NA,flood,2018-0396,5.33202804,-75.33899896
+02-160,Democratic Republic Of The Congo,ZAI,490,2018,30941,Masisi,2,Nord-Kivu,Masisi,NA, Selembao,0,NA,flood,2018-0005,-1.412263742,28.84697987
+02-160,Democratic Republic Of The Congo,ZAI,490,2018,30942,Kinshasa,1,Kinshasa,NA,NA, Kimbaseke Ndjili communes ,0,NA,flood,2018-0005,-4.436710157,15.9042405
+02-163,Costa Rica,COS,94,2018,30957,Puntarenas,1,Puntarenas,NA,NA,Puntarenas province,0,NA,flood,2018-0374,9.154026607,-83.72393204
+02-173,Cote D'Ivoire,IVO,437,2018,31034,Abidjan,1,Abidjan,NA,NA, AdjamŽ AttŽcoubŽ,0,NA,flood,2018-0185,5.420295397,-4.06497607
+02-188,El Salvador,SAL,92,2018,31149,La Union,1,La Union,NA,NA, San Felipe,0,NA,flood,2018-0374,13.52314036,-87.88939811
+02-188,El Salvador,SAL,92,2018,31150,San Miguel,1,San Miguel,NA,NA, La Canoa,0,NA,flood,2018-0374,13.53607609,-88.25469007
+02-188,El Salvador,SAL,92,2018,31151,La Libertad,1,La Libertad,NA,NA, San Rafael Abajo ,0,NA,flood,2018-0374,13.7042149,-89.36265532
+02-188,El Salvador,SAL,92,2018,31152,Usulutan,1,Usulutan,NA,NA, Capit‡n Lazo,0,NA,flood,2018-0374,13.38213827,-88.49040233
+02-188,El Salvador,SAL,92,2018,31153,Sonsonate,1,Sonsonate,NA,NA, Metal’o canton ,0,NA,flood,2018-0374,13.69417285,-89.68425638
+19-Feb,Angola,ANG,540,2018,31158,Cuando Cubango,1,Cuando Cubango,NA,NA, Cuando Cubango,0,NA,flood,2018-0104,-16.11853758,19.51642257
+19-Feb,Angola,ANG,540,2018,31159,Luanda,1,Luanda,NA,NA,Luanda,0,NA,flood,2018-0104,-8.979736465,13.31045103
+19-Feb,Angola,ANG,540,2018,31160,Cuanza Norte,1,Cuanza Norte,NA,NA, Cuanza Norte,0,NA,flood,2018-0104,-8.898622273,14.94596064
+02-199,France,FRN,220,2018,31202,Ile-de-France,1,Ile-de-France,NA,NA,Ile-de France,0,NA,flood,2018-0037,48.70922907,2.503472807
+02-204,Georgia,GRG,372,2018,31226,Racha-Lechkhumi-Kvemo Svaneti,1,Racha-Lechkhumi-Kvemo Svaneti,NA,NA,Nenskra valley villages,0,NA,flood,2018-0244,42.64531472,43.15852374
+02-226,Guatemala,GUA,90,2018,31331,Jutiapa,1,Jutiapa,NA,NA,Jutiapa department,0,NA,flood,2018-0374,14.21148354,-89.89224635
+02-250,Honduras,HON,91,2018,31501,Ocotepeque,1,Ocotepeque,NA,NA, Ocotepeque,0,NA,flood,2018-0374,14.47734073,-89.04319516
+02-250,Honduras,HON,91,2018,31502,La Paz,1,La Paz,NA,NA, La Paz,0,NA,flood,2018-0374,14.09483471,-87.88235465
+02-250,Honduras,HON,91,2018,31503,Copan,1,Copan,NA,NA,Cop‡n,0,NA,flood,2018-0374,14.89890364,-88.89409529
+02-250,Honduras,HON,91,2018,31504,Valle,1,Valle,NA,NA, El Para’so Valle,0,NA,flood,2018-0374,13.53708353,-87.58877235
+02-250,Honduras,HON,91,2018,31505,Francisco Morazan,1,Francisco Morazan,NA,NA, Francisco Moraz‡n,0,NA,flood,2018-0374,14.28352027,-87.18812587
+02-250,Honduras,HON,91,2018,31506,Intibuca,1,Intibuca,NA,NA, Intibuc‡,0,NA,flood,2018-0374,14.31695514,-88.20422926
+02-250,Honduras,HON,91,2018,31507,Comayagua,1,Comayagua,NA,NA, Comayagua,0,NA,flood,2018-0374,14.61296663,-87.64010597
+02-250,Honduras,HON,91,2018,31508,Lempira,1,Lempira,NA,NA, Lempira,0,NA,flood,2018-0374,14.39697289,-88.58750119
+02-250,Honduras,HON,91,2018,31509,Choluteca,1,Choluteca,NA,NA,Choluteca,0,NA,flood,2018-0374,13.34594648,-87.11701826
+27-Feb,Argentina,ARG,160,2018,31648,Chaco,1,Chaco,NA,NA, Pi–eiro,0,NA,flood,2018-0074,-26.38737495,-60.76674184
+28-Feb,Argentina,ARG,160,2018,31713,Salta,1,Salta,NA,NA,Salta Province,0,NA,flood,2018-0038,-24.29608962,-64.81994139
+02-288,India,IND,750,2018,31772,Tripura,1,Tripura,NA,NA,Tripura state,0,NA,flood,2018-0213,23.74450253,91.74176515
+02-293,India,IND,750,2018,31794,Gujarat,1,Gujarat,NA,NA, Gujarat,0,NA,flood,2018-0205,22.6903222,71.5884337
+02-293,India,IND,750,2018,31795,Assam,1,Assam,NA,NA,Assam,0,NA,flood,2018-0205,26.35676035,92.82876881
+02-293,India,IND,750,2018,31796,Maharashtra,1,Maharashtra,NA,NA, Maharashtra,0,NA,flood,2018-0205,19.44975928,76.10822143
+02-295,India,IND,750,2018,31803,Odisha,1,Odisha,NA,NA,Odisha state,0,NA,flood,2018-0286,20.50542802,84.41805896
+02-296,India,IND,750,2018,31804,Rajasthan,1,Rajasthan,NA,NA, Rajasthan,0,NA,flood,2018-0267,26.58342294,73.84797344
+02-296,India,IND,750,2018,31805,Uttar Pradesh,1,Uttar Pradesh,NA,NA,Uttar Pradesh,0,NA,flood,2018-0267,26.92542523,80.56098215
+02-297,India,IND,750,2018,31806,West Bengal,1,West Bengal,NA,NA, West Bengal,0,NA,flood,2018-0345,23.81595215,87.98089998
+02-299,India,IND,750,2018,31817,Uttar Pradesh,1,Uttar Pradesh,NA,NA,Uttar Pradesh,0,NA,flood,2018-0370,26.92542523,80.56098215
+02-300,India,IND,750,2018,31823,Haryana,1,Haryana,NA,NA, Haryana states,0,NA,flood,2018-0372,29.20004038,76.33282351
+02-300,India,IND,750,2018,31824,Punjab,1,Punjab,NA,NA,Punjab,0,NA,flood,2018-0372,30.84146482,75.40878951
+02-335,Iran,IRN,630,2018,32042,Mazandaran,1,Mazandaran,NA,NA, Mazandaran,0,NA,flood,2018-0383,36.37649418,52.36690532
+02-335,Iran,IRN,630,2018,32043,Esfahan,1,Esfahan,NA,NA, Isfahan,0,NA,flood,2018-0383,33.17887871,52.46413417
+02-335,Iran,IRN,630,2018,32044,Gilan,1,Gilan,NA,NA,Gilan,0,NA,flood,2018-0383,37.27585691,49.4563616
+02-335,Iran,IRN,630,2018,32045,Golestan,1,Golestan,NA,NA, Golestan,0,NA,flood,2018-0383,37.29607135,55.06232638
+02-335,Iran,IRN,630,2018,32046,North Khorasan,1,North Khorasan,NA,NA, North Khorasan,0,NA,flood,2018-0383,37.40111107,57.03598261
+02-335,Iran,IRN,630,2018,32047,Yazd,1,Yazd,NA,NA, Yazd provinces,0,NA,flood,2018-0383,32.56290608,55.6018906
+Feb-34,Australia,AUL,900,2018,32058,Queensland,1,Queensland,NA,NA, Halifax,0,NA,flood,2018-0123,-22.56759196,144.5460786
+02-340,Iraq,IRQ,645,2018,32060,Ninawa,1,Ninawa,NA,NA, Salaheddine and Ninewa districts,0,NA,flood,2018-0427,35.99291579,42.46572598
+02-343,Israel,ISR,666,2018,32071,Jerusalem,1,Jerusalem,NA,NA,Nahal Tsafit gorges,0,NA,flood,2018-0128,31.74637811,35.00741553
+02-354,Italy,ITA,325,2018,32142,Calabria,1,Calabria,NA,NA,Calabre,0,NA,flood,2018-0308,39.06813206,16.34735932
+02-370,Japan,JPN,740,2018,32230,Gifu,1,Gifu,NA,NA, Gifu,0,NA,flood,2018-0190,35.77867114,137.0559248
+02-370,Japan,JPN,740,2018,32231,Kochi,1,Kochi,NA,NA,Kochi,0,NA,flood,2018-0190,33.42251944,133.3673066
+02-370,Japan,JPN,740,2018,32232,Tokushima,1,Tokushima,NA,NA, Tokushima,0,NA,flood,2018-0190,33.91917847,134.2420913
+02-370,Japan,JPN,740,2018,32233,Nagano,1,Nagano,NA,NA,Nagano prefectures,0,NA,flood,2018-0190,36.13213385,138.0455278
+02-370,Japan,JPN,740,2018,32234,Hiroshima,1,Hiroshima,NA,NA, Hiroshima,0,NA,flood,2018-0190,34.6053091,132.7887191
+02-370,Japan,JPN,740,2018,32235,Okayama,1,Okayama,NA,NA, Okayama,0,NA,flood,2018-0190,34.89245983,133.8262517
+02-380,Kenya,KEN,501,2018,32264,Nairobi,1,Nairobi,NA,NA,Nairobi,0,NA,flood,2018-0116,-1.290546381,36.86666878
+02-381,Kenya,KEN,501,2018,32265,Garissa,1,Garissa,NA,NA, Garissa,0,NA,flood,2018-0132,-0.489487002,40.20470049
+02-381,Kenya,KEN,501,2018,32266,Tana River,1,Tana River,NA,NA,Tana river,0,NA,flood,2018-0132,-1.524777551,39.41762555
+02-381,Kenya,KEN,501,2018,32267,Samburu,1,Samburu,NA,NA, Samburu,0,NA,flood,2018-0132,1.321485733,37.11820271
+02-381,Kenya,KEN,501,2018,32268,Turkana,1,Turkana,NA,NA, Tarkana,0,NA,flood,2018-0132,3.265286303,35.43327692
+02-381,Kenya,KEN,501,2018,32269,Isiolo,1,Isiolo,NA,NA, Isiolo,0,NA,flood,2018-0132,1.012300494,38.53974274
+02-381,Kenya,KEN,501,2018,32270,Mandera,1,Mandera,NA,NA, Mandera,0,NA,flood,2018-0132,3.439001659,40.73546083
+02-381,Kenya,KEN,501,2018,32271,Wajir,1,Wajir,NA,NA, WAjir,0,NA,flood,2018-0132,1.810589545,40.03406304
+02-381,Kenya,KEN,501,2018,32272,Kisumu,1,Kisumu,NA,NA, Kisumu,0,NA,flood,2018-0132,-0.163032852,34.8344002
+02-385,North Korea,PRK,731,2018,32277,Hwanghae-Namdo,1,Hwanghae-Namdo,NA,NA,North and South Hwanghae,0,NA,flood,2018-0329,38.1916676,125.5286082
+02-407,Malawi,MAW,553,2018,32364,Lilongwe,1,Lilongwe,NA,NA, Lilongwe district,0,NA,flood,2018-0064,-14.01840253,33.68433479
+02-407,Malawi,MAW,553,2018,32365,Phalombe,1,Phalombe,NA,NA, Phalombe,0,NA,flood,2018-0064,-15.66703245,35.69125258
+02-407,Malawi,MAW,553,2018,32366,Karonga,1,Karonga,NA,NA,Karonga,0,NA,flood,2018-0064,-10.07970951,34.09101399
+02-417,Malaysia,MAL,820,2018,32461,Johor,1,Johor,NA,NA, Johor,0,NA,flood,2018-0068,2.050502415,103.3899178
+02-417,Malaysia,MAL,820,2018,32466,Trengganu,1,Trengganu,NA,NA, Terengganu states,0,NA,flood,2018-0068,4.926710777,102.9525912
+02-440,Mexico,MEX,70,2018,32619,Chihuahua,1,Chihuahua,NA,NA, Chihuahua,0,NA,flood,2018-0367,28.81823836,-106.4540013
+02-440,Mexico,MEX,70,2018,32621,Sinaloa,1,Sinaloa,NA,NA,Sinaloa,0,NA,flood,2018-0367,24.99255151,-107.4926632
+02-440,Mexico,MEX,70,2018,32622,Sonora,1,Sonora,NA,NA, Sonora,0,NA,flood,2018-0367,29.68339944,-110.7613656
+02-441,Mongolia,MON,712,2018,32624,Sukhbaatar,2,Suhbaatar,Sukhbaatar,NA, Sukhbaatar,0,NA,flood,2018-0249,46.92751365,113.7577138
+02-441,Mongolia,MON,712,2018,32626,Selenge,1,Selenge,NA,NA, Selenge,0,NA,flood,2018-0249,49.46883354,106.210404
+02-441,Mongolia,MON,712,2018,32627,Bayan-Olgiy,1,Bayan-Olgiy,NA,NA, Bayan-Ulgii,0,NA,flood,2018-0249,48.55138645,89.85489182
+02-441,Mongolia,MON,712,2018,32629,Tov,1,Tov,NA,NA, Tuv,0,NA,flood,2018-0249,47.66355682,106.5619503
+02-441,Mongolia,MON,712,2018,32631,Omnogovi,1,Omnogovi,NA,NA, Umnugobi,0,NA,flood,2018-0249,43.2810205,104.1106844
+02-441,Mongolia,MON,712,2018,32633,Bulgan,1,Bulgan,NA,NA, Bulgan,0,NA,flood,2018-0249,48.95415712,103.3972574
+02-441,Mongolia,MON,712,2018,32634,Ovorhangay,1,Ovorhangay,NA,NA, Uvurkhangai,0,NA,flood,2018-0249,45.82969756,102.7237481
+02-441,Mongolia,MON,712,2018,32635,Dornogovi,1,Dornogovi,NA,NA, Dornogovi,0,NA,flood,2018-0249,44.41738609,109.7756201
+02-441,Mongolia,MON,712,2018,32636,Arhangay,1,Arhangay,NA,NA,Arkhangai,0,NA,flood,2018-0249,47.86264731,101.0316287
+02-446,Mozambique,MZM,541,2018,32658,Cabo Delgado,1,Cabo Delgado,NA,NA, Cabo Delgado,0,NA,flood,2018-0048,-12.45862046,39.36667124
+02-446,Mozambique,MZM,541,2018,32659,Nassa,1,Nassa,NA,NA, Niassa,0,NA,flood,2018-0048,-13.06049328,36.46510072
+02-446,Mozambique,MZM,541,2018,32660,Nampula,1,Nampula,NA,NA,Nampula,0,NA,flood,2018-0048,-14.96481585,39.24779415
+02-454,Myanmar,MYA,775,2018,32715,Sagaing,1,Sagaing,NA,NA,Sagaing Region,0,NA,flood,2018-0203,24.14207468,95.33650955
+02-455,Myanmar,MYA,775,2018,32716,Naypyitaw,1,Naypyitaw,NA,NA, Nay Pyi Taw,0,NA,flood,2018-0255,19.71791532,96.09499887
+02-455,Myanmar,MYA,775,2018,32717,Ayeyarwady,1,Ayeyarwady,NA,NA, Ayeyarwady,0,NA,flood,2018-0255,16.87415259,95.12499437
+02-455,Myanmar,MYA,775,2018,32718,Kayin,1,Kayin,NA,NA, Karen,0,NA,flood,2018-0255,17.14131385,97.7973441
+02-455,Myanmar,MYA,775,2018,32719,Mon,1,Mon,NA,NA, Mon,0,NA,flood,2018-0255,16.42013405,97.57842912
+02-455,Myanmar,MYA,775,2018,32720,Bago,1,Bago,NA,NA,Bago,0,NA,flood,2018-0255,18.29818064,96.13084416
+02-455,Myanmar,MYA,775,2018,32721,Tanintharyi,1,Tanintharyi,NA,NA, Tanintharyi,0,NA,flood,2018-0255,12.66149392,98.74518851
+02-455,Myanmar,MYA,775,2018,32722,Sagaing,1,Sagaing,NA,NA, Sagaing,0,NA,flood,2018-0255,24.14207468,95.33650955
+02-455,Myanmar,MYA,775,2018,32723,Magway,1,Magway,NA,NA, Magway,0,NA,flood,2018-0255,20.45553846,94.84039482
+02-461,Nepal,NEP,790,2018,32816,Kailali,3,Far-Western,Seti,Kailali, Kailali,0,NA,flood,2018-0219,28.74158889,80.88083089
+02-461,Nepal,NEP,790,2018,32817,Tanahu,3,West,Gandaki,Tanahu,  Tanahu,0,NA,flood,2018-0219,27.95515479,84.2533168
+02-471,Nicaragua,NIC,93,2018,32915,Leon,1,Leon,NA,NA, Le—n,0,NA,flood,2018-0374,12.58552469,-86.63574626
+02-471,Nicaragua,NIC,93,2018,32916,Atlantico Norte,1,Atlantico Norte,NA,NA,Regi—n Aut—noma de la Costa Caribe Norte y Sur departments,0,NA,flood,2018-0374,13.99319825,-84.22175903
+02-471,Nicaragua,NIC,93,2018,32917,Nueva Segovia,1,Nueva Segovia,NA,NA, Nueva Segovia,0,NA,flood,2018-0374,13.7409906,-86.21744575
+02-471,Nicaragua,NIC,93,2018,32918,Chinandega,1,Chinandega,NA,NA, Chinandega ,0,NA,flood,2018-0374,12.84642325,-87.08863936
+02-471,Nicaragua,NIC,93,2018,32919,Matagalpa,1,Matagalpa,NA,NA,Matagalpa,0,NA,flood,2018-0374,12.93447166,-85.51450378
+02-471,Nicaragua,NIC,93,2018,32920,Jinotega,1,Jinotega,NA,NA, Jinotega,0,NA,flood,2018-0374,13.73866574,-85.52308871
+02-471,Nicaragua,NIC,93,2018,32921,Managua,1,Managua,NA,NA, Managua,0,NA,flood,2018-0374,12.22217931,-86.28618817
+02-476,Niger,NIR,436,2018,32948,Diffa,1,Diffa,NA,NA, Diffa ,0,NA,flood,2018-0232,15.86042651,13.21457557
+02-476,Niger,NIR,436,2018,32949,Maradi,1,Maradi,NA,NA,Maradi,0,NA,flood,2018-0232,14.11615306,7.299178277
+02-476,Niger,NIR,436,2018,32950,Zinder,1,Zinder,NA,NA, Zinder,0,NA,flood,2018-0232,14.98697187,10.03136022
+02-476,Niger,NIR,436,2018,32951,Agadez,1,Agadez,NA,NA, Agadez,0,NA,flood,2018-0232,19.48541641,10.51799236
+02-481,Nigeria,NIG,475,2018,33000,Bauchi,1,Bauchi,NA,NA, Baucho,0,NA,flood,2018-0238,10.7756404,9.988410054
+02-481,Nigeria,NIG,475,2018,33001,Ondo,1,Ondo,NA,NA, Ondo,0,NA,flood,2018-0238,6.908721983,5.156999899
+02-481,Nigeria,NIG,475,2018,33002,Yobe,1,Yobe,NA,NA, Yobe,0,NA,flood,2018-0238,12.29732174,11.44302555
+02-481,Nigeria,NIG,475,2018,33003,Niger,1,Niger,NA,NA, Niger,0,NA,flood,2018-0238,9.935978637,5.601163648
+02-481,Nigeria,NIG,475,2018,33004,Ogun,1,Ogun,NA,NA, Ogun,0,NA,flood,2018-0238,7.001702312,3.46704843
+02-481,Nigeria,NIG,475,2018,33006,Federal Capital Territory,1,Federal Capital Territory,NA,NA, Abuja states,0,NA,flood,2018-0238,8.861415757,7.141681955
+02-481,Nigeria,NIG,475,2018,33007,Edo,1,Edo,NA,NA, Edo,0,NA,flood,2018-0238,6.624212401,5.904809715
+02-482,Nigeria,NIG,475,2018,33009,Kogi,1,Kogi,NA,NA,Kogi,0,NA,flood,2018-0365,7.716356483,6.696042
+02-482,Nigeria,NIG,475,2018,33010,Niger,1,Niger,NA,NA, Niger,0,NA,flood,2018-0365,9.935978637,5.601163648
+02-482,Nigeria,NIG,475,2018,33011,Anambra,1,Anambra,NA,NA, Anambra,0,NA,flood,2018-0365,6.208220959,6.930591544
+02-482,Nigeria,NIG,475,2018,33012,Delta,1,Delta,NA,NA, Delta,0,NA,flood,2018-0365,5.712264243,5.968216452
+02-507,Paraguay,PAR,150,2018,33116,Asuncion,1,Asuncion,NA,NA, Chacarita,0,NA,flood,2018-0066,-25.27946255,-57.60262028
+02-508,Paraguay,PAR,150,2018,33117,Asuncion,1,Asuncion,NA,NA, Banado Sur,0,NA,flood,2018-0442,-25.27946255,-57.60262028
+Feb-52,Belarus,BLR,370,2018,33284,Mahilyow,1,Mahilyow,NA,NA, Mogilev,0,NA,flood,2018-0097,53.60913281,30.44439372
+Feb-52,Belarus,BLR,370,2018,33285,Hrodna,1,Hrodna,NA,NA, Grodno,0,NA,flood,2018-0097,53.72322608,25.17563558
+Feb-52,Belarus,BLR,370,2018,33286,Vitsyebsk,1,Vitsyebsk,NA,NA, Vitebsk regions,0,NA,flood,2018-0097,55.21798696,28.94403455
+Feb-52,Belarus,BLR,370,2018,33287,Homyel',1,Homyel',NA,NA,Chernichi ,0,NA,flood,2018-0097,52.30340787,29.66494676
+Feb-52,Belarus,BLR,370,2018,33288,Minsk,1,Minsk,NA,NA, Minsk,0,NA,flood,2018-0097,53.77041006,27.68356206
+Feb-52,Belarus,BLR,370,2018,33289,Brest,1,Brest,NA,NA, Brest,0,NA,flood,2018-0097,52.38813842,25.48253719
+02-542,Philippines,PHI,840,2018,33475,Davao Del Norte,1,Davao Del Norte,NA,NA, Dvao,0,NA,flood,2018-0051,7.58221988,125.6373258
+02-555,Romania,RUM,360,2018,33562,Neamt,1,Neamt,NA,NA, Neamt,0,NA,flood,2018-0247,46.96973522,26.37580911
+02-555,Romania,RUM,360,2018,33563,Bacau,1,Bacau,NA,NA,Bac?u,0,NA,flood,2018-0247,46.42170953,26.77351895
+02-555,Romania,RUM,360,2018,33564,Brasov,1,Brasov,NA,NA, Brasov,0,NA,flood,2018-0247,45.76522835,25.30218793
+02-555,Romania,RUM,360,2018,33565,Harghita,1,Harghita,NA,NA, Harghita,0,NA,flood,2018-0247,46.5499975,25.55847472
+02-555,Romania,RUM,360,2018,33566,Vrancea,1,Vrancea,NA,NA, Vrancea,0,NA,flood,2018-0247,45.78805917,26.98021397
+02-562,Russia,RUS,365,2018,33595,Volkhovskiy Rayon,2,Leningrad,Volkhovskiy Rayon,NA, Olkhovsky,0,NA,flood,2018-0113,60.05052097,32.56182863
+02-562,Russia,RUS,365,2018,33598,Tver',1,Tver',NA,NA,Tyva Republic,0,NA,flood,2018-0113,57.06336101,34.74854977
+02-562,Russia,RUS,365,2018,33601,Novosibirsk,1,Novosibirsk,NA,NA,  - South Siberia,0,NA,flood,2018-0113,55.26809362,79.76518271
+02-562,Russia,RUS,365,2018,33603,Altay,1,Altay,NA,NA, Altai Krai,0,NA,flood,2018-0113,52.60918085,82.59977018
+02-567,Rwanda,RWA,517,2018,33628,Rulindo,2,Amajyaruguru,Rulindo,NA, Rulindo district ,0,NA,flood,2018-0135,-1.739283602,29.98722684
+02-583,Serbia,SER,340,2018,33686,Sumadijski,1,Sumadijski,NA,NA, Sumadija,0,NA,flood,2018-0246,44.09218121,20.76517987
+02-583,Serbia,SER,340,2018,33687,Juzno-Backi,1,Juzno-Backi,NA,NA,Vojvodina,0,NA,flood,2018-0246,45.40146956,19.7196783
+02-583,Serbia,SER,340,2018,33688,Podunavski,1,Podunavski,NA,NA, Pomoravlje regions,0,NA,flood,2018-0246,44.43450292,20.95889714
+Feb-59,Bolivia,BOL,145,2018,33699,Tarija,1,Tarija,NA,NA,Tarija,0,NA,flood,2018-0062,-21.59258612,-63.88307581
+Feb-59,Bolivia,BOL,145,2018,33700,Cochabamba,1,Cochabamba,NA,NA, Cochabamba,0,NA,flood,2018-0062,-17.23216485,-65.6329174
+02-597,Spain,SPN,230,2018,33745,Baleares,2,Islas Baleares,Baleares,NA,Majorque,0,NA,flood,2018-0361,39.5727056,2.910201922
+02-602,Sri Lanka,SRI,780,2018,33778,Kalutara,1,Kalutara,NA,NA,Kalutara,0,NA,flood,2018-0384,6.57651042,80.12771425
+02-602,Sri Lanka,SRI,780,2018,33779,Kegalle,1,Kegalle,NA,NA, Kegalle districts,0,NA,flood,2018-0384,7.104059416,80.34271879
+02-602,Sri Lanka,SRI,780,2018,33780,Ratnapura,1,Ratnapura,NA,NA, Rathnapura,0,NA,flood,2018-0384,6.587057516,80.56620918
+02-602,Sri Lanka,SRI,780,2018,33781,Galle,1,Galle,NA,NA, Galle,0,NA,flood,2018-0384,6.222586212,80.25264912
+02-603,Sri Lanka,SRI,780,2018,33782,Colombo,1,Colombo,NA,NA, Colombo,0,NA,flood,2018-0278,6.868739271,80.01999293
+02-603,Sri Lanka,SRI,780,2018,33783,Ratnapura,1,Ratnapura,NA,NA, Ratnapura,0,NA,flood,2018-0278,6.587057516,80.56620918
+02-603,Sri Lanka,SRI,780,2018,33784,Kegalle,1,Kegalle,NA,NA,Kegalle districts,0,NA,flood,2018-0278,7.104059416,80.34271879
+02-603,Sri Lanka,SRI,780,2018,33785,Kalutara,1,Kalutara,NA,NA, Kalutara,0,NA,flood,2018-0278,6.57651042,80.12771425
+02-603,Sri Lanka,SRI,780,2018,33786,Puttalam,1,Puttalam,NA,NA,Puttalam,0,NA,flood,2018-0278,7.973869733,79.91399789
+02-603,Sri Lanka,SRI,780,2018,33787,Kurunegala,1,Kurunegala,NA,NA, Kurunegala,0,NA,flood,2018-0278,7.664066487,80.23624588
+02-603,Sri Lanka,SRI,780,2018,33788,Gampaha,1,Gampaha,NA,NA,Gampaha,0,NA,flood,2018-0278,7.122724451,80.01755229
+02-606,Sudan,SDN,625,2018,33819,Sennar,1,Sennar,NA,NA, Sennar,0,NA,flood,2018-0292,12.89621932,34.05314925
+02-606,Sudan,SDN,625,2018,33820,Kassala,1,Kassala,NA,NA, Kassala,0,NA,flood,2018-0292,15.98869069,35.75077515
+02-606,Sudan,SDN,625,2018,33821,Al Jazirah,1,Al Jazirah,NA,NA, Elgizira,0,NA,flood,2018-0292,14.58234302,33.34535948
+02-606,Sudan,SDN,625,2018,33822,West Kurdufan,1,West Kurdufan,NA,NA,West Kordofan,0,NA,flood,2018-0292,11.76198174,28.40530921
+02-607,Sudan,SDN,625,2018,33823,Khartoum,1,Khartoum,NA,NA, Khartoum,0,NA,flood,2018-0387,15.84367916,32.80179655
+02-607,Sudan,SDN,625,2018,33824,Kassala,1,Kassala,NA,NA,Kassala,0,NA,flood,2018-0387,15.98869069,35.75077515
+02-607,Sudan,SDN,625,2018,33825,West Kurdufan,1,West Kurdufan,NA,NA, West Kordofan,0,NA,flood,2018-0387,11.76198174,28.40530921
+Feb-61,Zimbabwe,ZIM,552,2018,33837,Mashonaland Central,1,Mashonaland Central,NA,NA, Mashonaland Central province,0,NA,flood,2018-0103,-16.70151538,31.18922011
+Feb-61,Botswana,BOT,571,2018,33838,Central,1,Central,NA,NA,Gweta,0,NA,flood,2018-0103,-21.53879673,26.27168272
+02-625,Tanzania,TAZ,510,2018,33904,Zanzibar North,1,Zanzibar North,NA,NA, Zanzibar,0,NA,flood,2018-0125,-5.918982295,39.28750426
+02-625,Tanzania,TAZ,510,2018,33908,Mwanza,1,Mwanza,NA,NA, Mwanza,0,NA,flood,2018-0125,-2.38158373,32.82072223
+02-625,Tanzania,TAZ,510,2018,33913,Morogoro,1,Morogoro,NA,NA, Morogoro,0,NA,flood,2018-0125,-7.922830034,36.98914682
+02-625,Tanzania,TAZ,510,2018,33916,Rukwa,1,Rukwa,NA,NA, Rukwa,0,NA,flood,2018-0125,-7.952032581,31.35608187
+02-625,Tanzania,TAZ,510,2018,33919,Mbeya,1,Mbeya,NA,NA, Mbeya,0,NA,flood,2018-0125,-8.228221706,33.35152932
+02-625,Tanzania,TAZ,510,2018,33922,Mtwara,1,Mtwara,NA,NA, Mtwara,0,NA,flood,2018-0125,-10.77782596,39.11954506
+02-625,Tanzania,TAZ,510,2018,33926,Shinyanga,1,Shinyanga,NA,NA, Shinyanga,0,NA,flood,2018-0125,-3.75434089,32.9368229
+02-625,Tanzania,TAZ,510,2018,33931,Dodoma,1,Dodoma,NA,NA, Dodoma,0,NA,flood,2018-0125,-5.929160784,35.92232206
+02-625,Tanzania,TAZ,510,2018,33934,Geita,1,Geita,NA,NA, Geita,0,NA,flood,2018-0125,-3.301319091,31.89937238
+02-640,Trinidad And Tobago,TRI,52,2018,34097,Tunapuna/Piarco,1,Tunapuna/Piarco,NA,NA, Tunapuna/Piarco,0,NA,flood,2018-0395,10.68766296,-61.3080434
+02-640,Trinidad And Tobago,TRI,52,2018,34098,Sangre Grande,1,Sangre Grande,NA,NA,Sangre Grande,0,NA,flood,2018-0395,10.64732085,-61.09959123
+02-640,Trinidad And Tobago,TRI,52,2018,34099,Couva-Tabaquite-Talparo,1,Couva-Tabaquite-Talparo,NA,NA, Couva/Tabaquite/Talparo,0,NA,flood,2018-0395,10.43926705,-61.33626167
+02-640,Trinidad And Tobago,TRI,52,2018,34100,Mayaro/Rio Claro,1,Mayaro/Rio Claro,NA,NA, Mayaro/Rio Claro regions,0,NA,flood,2018-0395,10.27834991,-61.10601162
+02-641,Tunisia,TUN,616,2018,34101,Nabeul,1,Nabeul,NA,NA,Cap Bon peninsula,0,NA,flood,2018-0364,36.69417818,10.71372791
+Feb-65,Brazil,BRA,140,2018,34124,Rio De Janeiro,1,Rio De Janeiro,NA,NA,Rio de Janeiro,0,NA,flood,2018-0040,-22.19491892,-42.66135386
+Feb-66,Brazil,BRA,140,2018,34182,Sao Paulo,1,Sao Paulo,NA,NA,Sao Paulo,0,NA,flood,2018-0112,-22.26541286,-48.73276064
+Feb-67,Bulgaria,BUL,355,2018,34256,Smolyan,1,Smolyan,NA,NA, Smolyan,0,NA,flood,2018-0220,41.6288916,24.66808948
+Feb-67,Bulgaria,BUL,355,2018,34257,Burgas,1,Burgas,NA,NA, Bourgas provinces,0,NA,flood,2018-0220,42.49184574,27.30690935
+Feb-67,Bulgaria,BUL,355,2018,34258,Pazardzhik,1,Pazardzhik,NA,NA, Pazardjik,0,NA,flood,2018-0220,42.13368183,24.14094105
+Feb-67,Bulgaria,BUL,355,2018,34259,Plovdiv,1,Plovdiv,NA,NA,Plovdiv,0,NA,flood,2018-0220,42.25736444,24.82490349
+Feb-67,Bulgaria,BUL,355,2018,34260,Sofia,1,Sofia,NA,NA, Sofia,0,NA,flood,2018-0220,42.70737841,23.60901815
+Feb-70,Burundi,BUI,516,2018,34604,Ruyigi,1,Ruyigi,NA,NA, Ruyigi provinces,0,NA,flood,2018-0065,-3.458014988,30.32277568
+Feb-70,Burundi,BUI,516,2018,34605,Rugombo,2,Cibitoke,Rugombo,NA,Rugombo,0,NA,flood,2018-0065,-2.82193931,29.09470673
+Feb-70,Burundi,BUI,516,2018,34606,Mpinga-Kayove,2,Rutana,Mpinga-Kayove,NA, Mpinga-Kayove,0,NA,flood,2018-0065,-3.804894266,30.13986119
+Feb-70,Burundi,BUI,516,2018,34607,Bururi,1,Bururi,NA,NA, Bururi,0,NA,flood,2018-0065,-3.891090637,29.55467315
+Feb-70,Burundi,BUI,516,2018,34608,Bujumbura Rural,1,Bujumbura Rural,NA,NA, Bujumbura Rural,0,NA,flood,2018-0065,-3.499058955,29.39694079
+Feb-70,Burundi,BUI,516,2018,34609,Bujumbura Mairie,1,Bujumbura Mairie,NA,NA, Bujumbura Mairie,0,NA,flood,2018-0065,-3.383808534,29.33621876
+02-706,Venezuela,VEN,101,2018,34641,Monagas,1,Monagas,NA,NA, Monagas,0,NA,flood,2018-0290,9.392177888,-63.01756961
+02-706,Venezuela,VEN,101,2018,34642,Bolivar,1,Bolivar,NA,NA,Bolivar,0,NA,flood,2018-0290,6.213313366,-63.4863297
+02-706,Venezuela,VEN,101,2018,34643,Amazonas,1,Amazonas,NA,NA, Amazonas states,0,NA,flood,2018-0290,3.412410959,-65.93688885
+02-707,Venezuela,VEN,101,2018,34644,Aragua,1,Aragua,NA,NA, Aragua,0,NA,flood,2018-0386,9.975434737,-67.1035189
+02-707,Venezuela,VEN,101,2018,34645,Vargas,1,Vargas,NA,NA,Vargas,0,NA,flood,2018-0386,10.54855435,-66.90493195
+Feb-71,Cambodia,CAM,811,2018,34676,Krong Preah Sihanouk,1,Krong Preah Sihanouk,NA,NA, Phreah Sihanouk ,0,NA,flood,2018-0222,10.68523169,103.755164
+Feb-71,Cambodia,CAM,811,2018,34678,Batdambang,1,Batdambang,NA,NA, Battambang,0,NA,flood,2018-0222,12.97918303,103.1016575
+Feb-71,Cambodia,CAM,811,2018,34681,Siemreab,1,Siemreab,NA,NA, Siem Bok,0,NA,flood,2018-0222,13.53166861,104.0302714
+Feb-71,Cambodia,CAM,811,2018,34682,Kampot,1,Kampot,NA,NA, Kampot provinces,0,NA,flood,2018-0222,10.79493869,104.3096364
+Feb-71,Cambodia,CAM,811,2018,34684,Kaoh Kong,1,Kaoh Kong,NA,NA, Koh Kong,0,NA,flood,2018-0222,11.46480385,103.4677172
+Feb-71,Cambodia,CAM,811,2018,34685,Kampong Spa,1,Kampong Spa,NA,NA, Kampong Speu,0,NA,flood,2018-0222,11.54096156,104.2979149
+02-725,Vietnam,VIE,816,2018,34805,Lai Chau,1,Lai Chau,NA,NA,Lai Chau,0,NA,flood,2018-0204,22.31668105,103.1872984
+07-123,Indonesia,INS,850,2018,44966,Jawa Barat,1,Jawa Barat,NA,NA,Java province,0,NA,flood,2018-0483,-6.920194937,107.6030311
+07-123,Indonesia,INS,850,2018,44967,Brebes,2,Jawa Tengah,Brebes,NA,Pasir Pangang ,0,NA,flood,2018-0483,-7.059324819,108.9275167
+07-125,Indonesia,INS,850,2018,44968,Nusa Tenggara Barat,1,Nusa Tenggara Barat,NA,NA,West Nusa Tenggara,0,NA,flood,2018-0166,-8.606664515,117.5074521
+07-126,Indonesia,INS,850,2018,44969,Sumatera Utara,1,Sumatera Utara,NA,NA, North Suamatra,0,NA,flood,2018-0121,2.190811217,99.0533116
+07-126,Indonesia,INS,850,2018,44970,Kalimantan Barat,1,Kalimantan Barat,NA,NA, East Kalimantan,0,NA,flood,2018-0121,-0.086653385,111.1209645
+07-126,Indonesia,INS,850,2018,44971,Sulawesi Utara,1,Sulawesi Utara,NA,NA,West Sulawesi,0,NA,flood,2018-0121,1.262052819,124.523091
+07-132,Indonesia,INS,850,2018,44976,Sumatera Utara,1,Sumatera Utara,NA,NA, Sumatra Isl,0,NA,flood,2018-0471,2.190811217,99.0533116
+07-132,Indonesia,INS,850,2018,44977,Jawa Barat,1,Jawa Barat,NA,NA,Java,0,NA,flood,2018-0471,-6.920194937,107.6030311
+07-133,Indonesia,INS,850,2018,44979,Riau,1,Riau,NA,NA, Riau,0,NA,flood,2018-0472,0.509879523,101.8081732
+07-133,Indonesia,INS,850,2018,44980,Bali,1,Bali,NA,NA, Bali,0,NA,flood,2018-0472,-8.369676937,115.1321099
+07-133,Indonesia,INS,850,2018,44981,Sumatera Utara,1,Sumatera Utara,NA,NA, West Sumatra,0,NA,flood,2018-0472,2.190811217,99.0533116
+07-175,Malawi,MAW,553,2018,44991,Karonga,1,Karonga,NA,NA,Karonga District,0,NA,flood,2018-0164,-10.07970951,34.09101399
+07-175,Malawi,MAW,553,2018,44992,Nkhotakota,1,Nkhotakota,NA,NA, Salima and Nkhotakota districts,0,NA,flood,2018-0164,-12.81112092,34.20769039
+07-175,Malawi,MAW,553,2018,44993,Salima,1,Salima,NA,NA, Chankholombe ,0,NA,flood,2018-0164,-13.70568487,34.43061936
+07-195,Myanmar,MYA,775,2018,45034,Bago,1,Bago,NA,NA,Bago region,0,NA,flood,2018-0314,18.29818064,96.13084416
+07-200,New Zealand,NEW,920,2018,45035,Hawke's Bay,1,Hawke's Bay,NA,NA, Hawk's Bay region,0,NA,flood,2018-0485,-39.41108346,176.7957213
+07-200,New Zealand,NEW,920,2018,45036,Gisborne,1,Gisborne,NA,NA,Gisborne,0,NA,flood,2018-0485,-38.28152962,177.920861
+07-231,Puerto Rico,NA,999,2018,45041,Las Piedras,1,Las Piedras,NA,NA, Las Piedras,0,NA,flood,2018-0218,18.18752738,-65.86946848
+07-231,Puerto Rico,NA,999,2018,45042,San Juan,1,San Juan,NA,NA,San Juan,0,NA,flood,2018-0218,18.38693307,-66.06112778
+07-233,Qatar,QAT,694,2018,45043,Ad Dawhah,1,Ad Dawhah,NA,NA,Doha,0,NA,flood,2018-0390,25.30828307,51.50553341
+07-235,Romania,RUM,360,2018,45044,Bacau,1,Bacau,NA,NA,Bacau,0,NA,flood,2018-0165,46.42170953,26.77351895
+07-235,Romania,RUM,360,2018,45045,Covasna,1,Covasna,NA,NA, Covasna,0,NA,flood,2018-0165,45.93809343,25.99076714
+07-235,Romania,RUM,360,2018,45046,Vaslui,1,Vaslui,NA,NA, Vaslui districts,0,NA,flood,2018-0165,46.5268694,27.76939549
+07-235,Romania,RUM,360,2018,45047,Harghita,1,Harghita,NA,NA, Harghita,0,NA,flood,2018-0165,46.5499975,25.55847472
+07-235,Romania,RUM,360,2018,45048,Mures,1,Mures,NA,NA, Mures,0,NA,flood,2018-0165,46.60950283,24.69713343
+07-235,Romania,RUM,360,2018,45049,Brasov,1,Brasov,NA,NA, Brasov,0,NA,flood,2018-0165,45.76522835,25.30218793
+07-235,Romania,RUM,360,2018,45050,Teleorman,1,Teleorman,NA,NA, Teleorman,0,NA,flood,2018-0165,44.02782167,25.19789946
+07-247,Somalia,SOM,520,2018,45055,Banaadir,1,Banaadir,NA,NA, Banadir region,0,NA,flood,2018-0133,2.109124818,45.42425128
+07-247,Somalia,SOM,520,2018,45056,Bakool,1,Bakool,NA,NA, Bakool,0,NA,flood,2018-0133,4.203733604,43.9474885
+07-247,Somalia,SOM,520,2018,45057,Gedo,1,Gedo,NA,NA, Horseed,0,NA,flood,2018-0133,2.887436022,41.97514555
+07-247,Somalia,SOM,520,2018,45058,Bay,1,Bay,NA,NA, Bay,0,NA,flood,2018-0133,2.653014199,43.56644195
+07-247,Somalia,SOM,520,2018,45059,Shabeellaha Dhexe,1,Shabeellaha Dhexe,NA,NA, Hirshabelle,0,NA,flood,2018-0133,3.021458439,46.01033962
+07-247,Somalia,SOM,520,2018,45060,Hiiraan,1,Hiiraan,NA,NA, Hiraan,0,NA,flood,2018-0133,4.210158701,45.47562752
+07-247,Somalia,SOM,520,2018,45061,Jubbada Dhexe,1,Jubbada Dhexe,NA,NA, Jubaland,0,NA,flood,2018-0133,1.225192724,42.53793295
+07-247,Somalia,SOM,520,2018,45062,Galguduud,1,Galguduud,NA,NA, Galmudug states,0,NA,flood,2018-0133,5.124412009,46.78310013
+07-247,Somalia,SOM,520,2018,45063,Jubbada Hoose,1,Jubbada Hoose,NA,NA, Jubaland,0,NA,flood,2018-0133,0.092135349,41.80258079
+07-254,Sri Lanka,SRI,780,2018,45064,Vavuniya,1,Vavuniya,NA,NA, Vavuniya,0,NA,flood,2018-0467,8.858132516,80.48171595
+07-254,Sri Lanka,SRI,780,2018,45065,Jaffna,1,Jaffna,NA,NA, Jaffna districts,0,NA,flood,2018-0467,9.693459281,80.10084037
+07-254,Sri Lanka,SRI,780,2018,45066,Kilinochchi,1,Kilinochchi,NA,NA,Kilinochchi,0,NA,flood,2018-0467,9.420429639,80.30523441
+07-254,Sri Lanka,SRI,780,2018,45067,Mullaitivu,1,Mullaitivu,NA,NA,Mullaithvu,0,NA,flood,2018-0467,9.175614812,80.54142319
+07-254,Sri Lanka,SRI,780,2018,45068,Mannar,1,Mannar,NA,NA, Mannar,0,NA,flood,2018-0467,8.878443893,80.08930653
+07-255,Sudan,SDN,625,2018,45069,Blue Nile,1,Blue Nile,NA,NA,Blue Nile State,0,NA,flood,2018-0221,11.26847373,34.12537867
+07-255,Sudan,SDN,625,2018,45070,West Darfur,1,West Darfur,NA,NA,Westenr Darfur,0,NA,flood,2018-0221,13.51149217,22.6285422
+07-255,Sudan,SDN,625,2018,45071,Zalingei,3,Central Darfur,Zallingi,Zalingei,Zalingei ,0,NA,flood,2018-0221,12.888133,23.38914515
+07-266,Tunisia,TUN,616,2018,45075,Grombalia,2,Nabeul,Grombalia,NA, Grombalia,0,NA,flood,2018-0388,36.60033468,10.43379808
+07-266,Tunisia,TUN,616,2018,45076,Kasserine,1,Kasserine,NA,NA, Kasserine,0,NA,flood,2018-0388,35.23432521,8.750650074
+07-266,Tunisia,TUN,616,2018,45077,Le Kef,1,Le Kef,NA,NA, Kef,0,NA,flood,2018-0388,36.04660564,8.676926877
+07-266,Tunisia,TUN,616,2018,45078,Sidi Bou Zid,1,Sidi Bou Zid,NA,NA, Sidi Bouzid,0,NA,flood,2018-0388,34.88226952,9.53398517
+07-266,Tunisia,TUN,616,2018,45079,Zaghouan,1,Zaghouan,NA,NA, Zaghouan,0,NA,flood,2018-0388,36.34307994,9.996719622
+07-277,United States,USA,2,2018,45080,Kauai,2,Hawaii,Kauai,NA,Kauai Isl. ,0,NA,flood,2018-0130,22.03949734,-159.6025667
+07-281,United States,USA,2,2018,45085,Iowa,1,Iowa,NA,NA, Iowa,0,NA,flood,2018-0331,42.07607869,-93.5001804
+07-281,United States,USA,2,2018,45086,Kentucky,1,Kentucky,NA,NA, Kentucky,0,NA,flood,2018-0331,37.52685168,-85.2891026
+07-281,United States,USA,2,2018,45087,Indiana,1,Indiana,NA,NA, Indiana,0,NA,flood,2018-0331,39.91942126,-86.28188618
+07-281,United States,USA,2,2018,45088,Arkansas,1,Arkansas,NA,NA, Arkansas,0,NA,flood,2018-0331,34.89916261,-92.43950903
+07-281,United States,USA,2,2018,45089,Ohio,1,Ohio,NA,NA, Ohio,0,NA,flood,2018-0331,40.47703457,-82.62697514
+07-281,United States,USA,2,2018,45090,Pennsylvania,1,Pennsylvania,NA,NA, Pennsylvania,0,NA,flood,2018-0331,40.87410625,-77.79915614
+07-281,United States,USA,2,2018,45091,Minnesota,1,Minnesota,NA,NA, Minnesota,0,NA,flood,2018-0331,46.35298765,-94.19575503
+07-281,United States,USA,2,2018,45092,Wisconsin,1,Wisconsin,NA,NA,Wisconsin,0,NA,flood,2018-0331,44.64078545,-89.73591002
+07-281,United States,USA,2,2018,45093,Missouri,1,Missouri,NA,NA, Missouri,0,NA,flood,2018-0331,38.36749387,-92.47777355
+07-281,United States,USA,2,2018,45094,Illinois,1,Illinois,NA,NA, Illinois,0,NA,flood,2018-0331,40.1249162,-89.14846358
+07-284,United States,USA,2,2018,45098,Mason,2,West Virginia,Mason,NA, Mason,0,NA,flood,2018-0419,38.76964285,-82.0255768
+07-284,United States,USA,2,2018,45099,La Salle,2,Louisiana,La Salle,NA, La Salle,0,NA,flood,2018-0419,31.67660616,-92.16040323
+07-284,United States,USA,2,2018,45101,Mason,2,Washington,Mason,NA, Mason,0,NA,flood,2018-0419,47.35117852,-123.1974133
+07-284,United States,USA,2,2018,45107,Mason,2,Michigan,Mason,NA, Mason,0,NA,flood,2018-0419,43.99487271,-86.24951361
+07-284,United States,USA,2,2018,45113,Williamson,2,Tennessee,Williamson,NA, and Williamson counties,0,NA,flood,2018-0419,35.89420115,-86.89943012
+07-284,United States,USA,2,2018,45114,Colorado,1,Colorado,NA,NA, Colorado,0,NA,flood,2018-0419,38.99904782,-105.5478046
+07-284,United States,USA,2,2018,45119,Mason,2,Kentucky,Mason,NA, Mason,0,NA,flood,2018-0419,38.59497245,-83.82455862
+07-295,Vietnam,VIE,816,2018,45129,Thanh Hoa,1,Thanh Hoa,NA,NA,Thanh Hoa,0,NA,flood,2018-0448,20.04537688,105.3196878
+07-295,Vietnam,VIE,816,2018,45130,Binh Dinh,1,Binh Dinh,NA,NA,  Binh Dinh,0,NA,flood,2018-0448,14.12125642,108.9513068
+07-295,Vietnam,VIE,816,2018,45131,Da Nang,1,Da Nang,NA,NA, Da Nang,0,NA,flood,2018-0448,16.06845159,108.0617235
+07-295,Vietnam,VIE,816,2018,45132,Quang Nam,1,Quang Nam,NA,NA, Quang Nam,0,NA,flood,2018-0448,15.58976801,107.9599579
+07-295,Vietnam,VIE,816,2018,45133,Quang Ngai,1,Quang Ngai,NA,NA, Quang Ngai,0,NA,flood,2018-0448,14.99156671,108.6503565
+07-295,Vietnam,VIE,816,2018,45134,Quang Tri,1,Quang Tri,NA,NA, Quang Tri,0,NA,flood,2018-0448,16.74589623,106.930243
+07-295,Vietnam,VIE,816,2018,45135,Nghe An,1,Nghe An,NA,NA, Nghe An,0,NA,flood,2018-0448,19.23620572,104.9462825
+Jul-34,Burundi,BUI,516,2018,45136,Vugizo,2,Makamba,Vugizo,NA, Vugizo ,0,NA,flood,2018-0479,-4.153845974,29.67849501
+Jul-34,Burundi,BUI,516,2018,45137,Gatumba,3,Bujumbura Rural,Mutimbuzi,Gatumba,Gatumba,0,NA,flood,2018-0479,-3.312979306,29.24205381
+Jul-36,Canada,CAN,20,2018,45138,British Columbia,1,British Columbia,NA,NA,British Columbia,0,NA,flood,2018-0160,54.75318012,-124.768565
+Jul-43,China,CHN,710,2018,45145,Guangxi,1,Guangxi,NA,NA,Guangxi Zhuang Autonomous,0,NA,flood,2018-0159,23.82701469,108.7865663
+Jul-45,China,CHN,710,2018,45146,Guangdong,1,Guangdong,NA,NA, Guangdong,0,NA,flood,2018-0211,23.33519983,113.4152731
+Jul-45,China,CHN,710,2018,45147,Guangxi,1,Guangxi,NA,NA, Guangxi,0,NA,flood,2018-0211,23.82701469,108.7865663
+Jul-45,China,CHN,710,2018,45148,Fujian,1,Fujian,NA,NA,Fujian,0,NA,flood,2018-0211,26.08105732,117.9899438
+Jul-71,Dominican Republic,DOM,42,2018,45171,San Cristobal,1,San Cristobal,NA,NA,San CristÛbal Province,0,NA,flood,2018-0218,18.52443385,-70.20079562
+Jul-71,Dominican Republic,DOM,42,2018,45172,Distrito Nacional,1,Distrito Nacional,NA,NA, Distrito Nacional,0,NA,flood,2018-0218,18.4860734,-69.93454938
+Jul-71,Dominican Republic,DOM,42,2018,45173,Santo Domingo,1,Santo Domingo,NA,NA, Santo Domingo Province,0,NA,flood,2018-0218,18.56524027,-69.84153434
+08-Jul,Algeria,ALG,615,2018,45176,El Bayadh,1,El Bayadh,NA,NA, El-Bayadh,0,NA,flood,2018-0162,32.56540104,0.91158853
+08-Jul,Algeria,ALG,615,2018,45177,Tiaret,1,Tiaret,NA,NA,Tiaret,0,NA,flood,2018-0162,34.96510885,1.530423933
+Jul-93,Guatemala,GUA,90,2018,45186,Guatemala,1,Guatemala,NA,NA, Guatemala department,0,NA,flood,2018-0157,14.62976735,-90.48779733
+Jul-93,Guatemala,GUA,90,2018,45187,El Progreso,1,El Progreso,NA,NA, El Progresso,0,NA,flood,2018-0157,14.89484082,-90.08054763
+Jul-93,Guatemala,GUA,90,2018,45188,Solola,1,Solola,NA,NA, Solola,0,NA,flood,2018-0157,14.71662228,-91.25894678
+Jul-93,Guatemala,GUA,90,2018,45189,Chiquimula,1,Chiquimula,NA,NA,Chiquimula,0,NA,flood,2018-0157,14.6901145,-89.41827525
+Jul-93,Guatemala,GUA,90,2018,45190,Quetzaltenango,2,Quezaltenango,Quetzaltenango,NA, Quetzaltenango,0,NA,flood,2018-0157,14.80836908,-91.53349166
+Jul-93,Guatemala,GUA,90,2018,45191,Peten,1,Peten,NA,NA, Peten,0,NA,flood,2018-0157,16.97356741,-90.01503002
+Jul-93,Guatemala,GUA,90,2018,45192,Sacatepequez,1,Sacatepequez,NA,NA, Sacatepequez,0,NA,flood,2018-0157,14.55277043,-90.74148206
+Jul-93,Guatemala,GUA,90,2018,45193,San Marcos,1,San Marcos,NA,NA, San Marcos,0,NA,flood,2018-0157,15.01935358,-91.93232156
+Jul-93,Guatemala,GUA,90,2018,45194,Suchitepequez,1,Suchitepequez,NA,NA, Suchitepequez,0,NA,flood,2018-0157,14.40343665,-91.40865742
